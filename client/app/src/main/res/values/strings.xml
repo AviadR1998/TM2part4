@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">2Chat</string>
+    <string name="login_etUsername">Username</string>
+    <string name="login_etPassword">Password</string>
+    <string name="login_btnLogin">LOGIN</string>
+    <string name="login_tvLogin">Login</string>
+    <string name="under_login_text">Please Sign in to continue</string>
+    <string name="login_tv_sign_up">Sign up</string>
+    <string name="login_tv__have_an_account">Don\'t have an account?</string>
+    <string name="register_tv_create_account">Create Account</string>
+    <string name="register_sign_up_btn">SIGN UP</string>
+    <string name="register_confirm_password">Confirm Password</string>
+    <string name="register_display_name">Display Name</string>
+    <string name="register_profile_picture">Profile Picture</string>
+    <string name="register_got_account">Already have an account?</string>
+    <string name="register_sign_in">Sign in</string>
+    <string name="change_profile">change profile picture</string>
+    <string name="channel_name">2chatChannel</string>
+    <string name="channel_description">got a new message live</string>
+    <string name="wrong_login">wrong username or password</string>
+    <string name="settings_night_mode">Night Mode</string>
+    <string name="settings_set_server_link">Set Server Link</string>
+</resources>

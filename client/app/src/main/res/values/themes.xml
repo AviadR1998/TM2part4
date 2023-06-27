@@ -1,0 +1,61 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TM2EX3" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.TM2EX3" parent="Base.Theme.TM2EX3" />
+    
+    <style name="nightModeSwitch" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">#7868E6</item>
+        <item name="colorSwitchThumbNormal">@color/white</item>
+        <item name="android:colorForeground">#7868E6</item>
+    </style>
+    
+    <style name="SCREEN">
+        <item name="android:background">@drawable/light_bckg</item>
+    </style>
+    
+    <style name="SETTINGS_SCREEN">
+        <item name="android:background">@drawable/violet_bckg</item>
+    </style>
+
+    <style name="DEFAULT_TEXT_COLOR">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TOOLBAR">
+        <item name="android:background">#eadafe</item>
+    </style>
+
+    <style name="ROUND_SETTINGS">
+        <item name="android:background">@drawable/round_back_white</item>
+    </style>
+
+    <style name="SCREEN_TEXT_COLOR">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+    <style name="BACK_BTN">
+        <item name="android:src">@drawable/ic_simple_back</item>
+    </style>
+
+    <style name="ADD_NEW_SCREEN">
+        <item name="android:background">#F3E8FF</item>
+    </style>
+
+    <style name="MESSAGE_TOOLBAR">
+        <item name="android:background">#bea3e6</item>
+    </style>
+
+    <style name="MESSAGE_BACKGROUND">
+        <item name="android:background">@drawable/rounded_message</item>
+    </style>
+
+    <style name="MESSAGE_BACKGROUND_R">
+        <item name="android:background">@drawable/rounded_message_reverse</item>
+    </style>
+
+</resources>
